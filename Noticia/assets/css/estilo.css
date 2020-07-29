@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+
+body{
+    background-color: rgb(33, 88, 88);
+    
+}
+
+header{
+    background-color: rgba(255,255,255,0.45);
+    padding: 20px;
+    width: 65% ;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+nav{
+
+    
+    padding: 0px;
+    width: 50% ;
+    margin-top: -50px;
+    margin-right: auto;
+    margin-bottom: -15px;
+    margin-left: auto;
+    border-radius: -5px;
+    
+}
+
+
+
+
+.menu > li{
+
+display: inline-block;
+
+
+}
+
+.menu > li > a{
+    display: block;
+    padding: 0px 15px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.menu li a:hover{
+    color: red;
+}
+
+h1{
+     color: rgb(68, 68, 68);
+     font-size: 46px;
+     text-transform: uppercase;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     border-bottom: rgb(151, 108, 28) dotted 2px;
+     padding-bottom: 25px;
+}
+
+p{
+    color: black;
+    font-size: 17px;
+
+}
+
+
+
+blockquote{
+    color: wheat ;
+    font-size: 17px;
+    font-style: italic;
+    border-left: rgb(151, 108, 28) solid 4px ;
+    padding-left: 10px;
+    width: 88%;
+
+}
+
+.bajada{
+    color: rgb(44, 38, 26);
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.foto_principal {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#envoltorio{
+    background-color: rgba(255,255,255,0.45);
+    padding: 20px;
+    width: 65% ;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border-radius: 5px;
+    
+}
+
+.logo {
+    width: 10%;
+
+}
+
+footer{
+    
+    background-color: rgba(255,255,255,0.45);
+    padding: 20px;
+    width: 65%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+.footer {
+
+ font-size: 14px;
+}
+
+
+
+
+
+
