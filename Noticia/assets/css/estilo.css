@@ -1,117 +1,139 @@
 @import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
 
-body{
+body {
     background-color: rgb(33, 88, 88);
-    
+
 }
 
-header{
-    background-color: rgba(255,255,255,0.45);
+header {
+    background-color: rgba(255, 255, 255, 0.45);
     padding: 20px;
-    width: 65% ;
-    margin-top: 20px;
+    width: 65%;
     margin-right: auto;
     margin-bottom: 0px;
     margin-left: auto;
     border-radius: 5px;
+
 }
 
-nav{
+nav {
 
-    
+
     padding: 0px;
-    width: 50% ;
+    width: 50%;
     margin-top: -50px;
     margin-right: auto;
     margin-bottom: -15px;
     margin-left: auto;
     border-radius: -5px;
+
+}
+
+aside{
+    background-color: rgba(255, 255, 255, 0.45);
+    padding: 80px;
+    width: 25%;
+    margin-right: 1px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border-radius: 5px;
     
-}
-
-
-
-
-.menu > li{
-
-display: inline-block;
+    
 
 
 }
 
-.menu > li > a{
+
+
+
+.menu>li {
+
+    display: inline-block;
+
+
+}
+
+.menu>li>a {
     display: block;
     padding: 0px 15px;
-    color:white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-decoration: none;
 
 }
 
-.menu li a:hover{
-    color: red;
+.menu li a:hover {
+    color: wheat;
 }
 
-h1{
-     color: rgb(68, 68, 68);
-     font-size: 46px;
-     text-transform: uppercase;
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     border-bottom: rgb(151, 108, 28) dotted 2px;
-     padding-bottom: 25px;
+h1 {
+    color: rgb(68, 68, 68);
+    font-size: 46px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
 }
 
-p{
+p {
     color: black;
     font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 
 
 
-blockquote{
-    color: wheat ;
+blockquote {
+    color: black;
     font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-style: italic;
-    border-left: rgb(151, 108, 28) solid 4px ;
-    padding-left: 10px;
+    border-left: wheat solid 3px;
+    padding-left: 30px;
     width: 88%;
+    margin-left: 1px;
+    margin-bottom: 50px;
+
+
 
 }
 
-.bajada{
+.nombre_pintura {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    padding-bottom: 5px;
+    border-bottom: wheat dotted 1px;
+    text-align: right;
+    margin-bottom: 50px;
+    margin-top: 2px;
+    color: rgb(68, 68, 68);
+
+
+}
+
+.bajada {
     color: rgb(44, 38, 26);
     font-size: 22px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 30px;
+    margin-top: -25px;
+    border-bottom: wheat solid 1px;
 
 }
 
 .foto_principal {
     width: 100%;
     border-radius: 5px;
-}
+    margin-top: 50px;
 
-#envoltorio{
-    background-color: rgba(255,255,255,0.45);
-    padding: 20px;
-    width: 65% ;
-    margin-top: 20px;
-    margin-right: auto;
-    margin-bottom: 0px;
-    margin-left: auto;
-    border-radius: 5px;
-    
-}
 
-.logo {
-    width: 10%;
 
 }
 
-footer{
-    
-    background-color: rgba(255,255,255,0.45);
+#envoltorio {
+    background-color: rgba(255, 255, 255, 0.45);
     padding: 20px;
     width: 65%;
     margin-top: 20px;
@@ -119,15 +141,26 @@ footer{
     margin-bottom: 0px;
     margin-left: auto;
     border-radius: 5px;
+
+}
+
+.logo {
+    width: 8%;
+
+}
+
+footer {
+
+    background-color: rgba(255, 255, 255, 0.45);
+    padding: 20px;
+    width: 65%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
 }
 
 .footer {
 
- font-size: 14px;
+    font-size: 11px;
 }
-
-
-
-
-
-
