@@ -1,0 +1,153 @@
+.banderas {
+    width: 30%;
+    height: 300px;
+    margin: 25px auto;
+    position: relative;
+    border: solid black 5.5px;
+}
+
+#rojo_francia {
+    background-color: red;
+    right: 0px;
+}
+
+.azul_francia {
+    height: 300px;
+    width: 33%;
+    position: absolute;
+    background-color: blue;
+}
+
+#amarillo_colombia {
+    background: yellow;
+
+}
+
+.colores_colombia {
+    position: absolute;
+    width: 100%;
+    height: 75px;
+    bottom: 0%;
+    background-color: red;
+    border-top: solid 75px blue;
+
+}
+
+#rojo_españa {
+    background-color: red;
+}
+
+.amarillo_españa {
+    background-color: yellow;
+    width: 100%;
+    height: 150px;
+    margin-top: 75px;
+    position: absolute;
+}
+
+.escudo {
+    width: 110px;
+    height: auto;
+    margin: 19px 90px;
+}
+
+#azul_costarica {
+    background-color: rgb(47, 12, 92);
+
+
+}
+
+.rojoyblanco_costarica {
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    margin-top: 50px;
+    border: white solid 50px;
+    border-right: 0px;
+    border-left: 0px;
+    position: absolute;
+}
+
+#rojo_islandia {
+    background-color: red;
+
+}
+
+
+.azul_islandia {
+    background-color: blue;
+    border: white solid 15px;
+    position: absolute;
+    width: 120px;
+    height: 118px;
+}
+
+#cuadrado_1 {
+    border-top: 0px;
+    border-left: 0px;
+
+}
+
+#cuadrado_2 {
+    border-bottom: 0px;
+    border-left: 0px;
+    bottom: 0%;
+
+}
+
+#cuadrado_3 {
+    border-top: 0px;
+    border-right: 0px;
+    right: 0%;
+    width: 59%;
+}
+
+#cuadrado_4 {
+    border-bottom: 0px;
+    border-right: 0px;
+    right: 0%;
+    width: 59%;
+    bottom: 0%;
+
+}
+
+.elipse_japon {
+
+    background-color: red;
+    height: 205px;
+    width: 205px;
+    border-radius: 100%;
+    position: absolute;
+    top: 16%;
+    left: 28%;
+}
+
+#rojo_chile {
+    background-color: red;
+}
+
+#blanco_chile {
+    background-color: white;
+    height: 150px;
+    width: 100%;
+}
+
+.posicion_chile {
+    position: absolute;
+    width: 20%;
+    height: 150px;
+    top: 0px;
+}
+
+#azul_chile {
+    background-color: blue;
+    height: 150px;
+    width: 33.3%;
+
+}
+
+.estrella_chile {
+    width: 80%;
+    height: auto;
+    margin: 14px 14px;
+}
