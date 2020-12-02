@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: rgba(120, 196, 221, 0) ;
+    background-color: rgba(120, 196, 221, 0);
     padding: 1px;
     width: 80%;
     margin-right: auto;
@@ -29,20 +29,20 @@ header {
     width: 3.5%;
     margin-top: auto;
     margin-bottom: 63px;
-    
-    
+
+
 
 }
 
 .foto_publicidad {
     width: 80%;
     border-radius: 10px;
-   
+
     margin-bottom: 90px;
     margin-right: auto;
-    
+
     margin-left: 150px;
-    
+
 }
 
 .pregunta {
@@ -53,7 +53,7 @@ header {
     display: inline-block;
     margin-bottom: 200px;
     color: rgba(34, 128, 179);
-    
+
 }
 
 .conocer {
@@ -63,7 +63,7 @@ header {
     color: white;
     margin-left: 230px;
     display: inline-block;
-    background-color: rgb(118, 192, 219) ;
+    background-color: rgb(118, 192, 219);
     padding: 15px;
     width: 15%;
     border-radius: 100px;
@@ -102,7 +102,7 @@ h1 {
 
 .producto_3 {
     margin-left: 50px;
-   
+
     border-radius: 5px;
     display: inline-block;
     width: auto;
@@ -119,7 +119,15 @@ h1 {
 
 .producto_5 {
     margin-left: 50px;
-   
+
+    border-radius: 5px;
+    display: inline-block;
+    width: auto;
+}
+
+.producto_6 {
+    margin-left: 50px;
+
     border-radius: 5px;
     display: inline-block;
     width: auto;
@@ -140,23 +148,40 @@ h1 {
     position: relative;
     width: auto;
 
-    margin-left: 200px;
+    margin-left: 50px;
     border-radius: 5px;
 
 }
 
 .promocion_3 {
-    margin-left: 250px;
-    width: auto;
-    margin-top: 200px;
+    margin-left: 50px;
+
     border-radius: 5px;
     display: inline-block;
+    width: auto;
 }
 
 .promocion_4 {
     position: relative;
-    width: auto;
-    margin-left: 200px;
+    margin-left: 250px;
     border-radius: 5px;
+    width: auto;
+    margin-top: 280px;
 
+}
+
+.promocion_5 {
+    position: relative;
+    width: auto;
+
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
+.promocion_6 {
+    position: relative;
+    width: auto;
+
+    margin-left: 50px;
+    border-radius: 5px;
 }
