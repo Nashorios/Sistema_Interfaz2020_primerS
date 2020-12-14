@@ -1,0 +1,19 @@
+.columna__01 {
+    background-color: yellow ;
+}
+
+.columna__02 {
+    background-color: gray ;
+    
+}
+
+.columna__03 {
+    background-color: red
+}
+.columna__04{
+  background-color: blueviolet;
+}
+.padding__vertical {
+padding: 20px 0px ;
+background-color: rgb(196, 194, 194);
+}
