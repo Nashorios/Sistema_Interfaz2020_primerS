@@ -8,7 +8,7 @@ body {
 header {
     background-color: rgba(120, 196, 221, 0);
     padding: 1px;
-    width: 80%;
+    width: auto;
     margin-right: auto;
     margin-bottom: 50px;
     margin-left: auto;
@@ -29,12 +29,8 @@ header {
     color: rgba(34, 128, 179);
 }
 
-.whatsapp {
-    margin-top: -140px;
-    position: absolute;
-    margin-left: 1160px;
-    color: rgba(34, 128, 179);
-}
+
+
 .whatsapp {
     position:fixed;
     width:60px;
