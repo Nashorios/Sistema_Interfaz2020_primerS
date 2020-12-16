@@ -23,7 +23,6 @@ header {
     position: absolute;
     margin-left: 83%;
     color: rgba(34, 128, 179);
-
 }
 
 .facebook {
@@ -31,11 +30,7 @@ header {
     position: absolute;
     margin-left: 86%;
     color: rgba(34, 128, 179);
-
-
 }
-
-
 
 .whatsapp {
     position: fixed;
@@ -55,7 +50,6 @@ header {
     margin-top: 13px;
 }
 
-
 .logo {
     width: 13%;
     margin-left: 9%;
@@ -65,13 +59,15 @@ header {
     margin-bottom: -19px;
 }
 
-.menu {
+    .menu {
     margin-left: 50%;
     display: inline-block;
     width: 3.5%;
     margin-top: 4%;
     margin-bottom: 63px;
     position: absolute;
+    z-index: 10;
+    cursor: pointer;
 }
 
 .foto_publicidad {
@@ -83,55 +79,111 @@ header {
 }
 
 .pregunta {
-
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 32% ;
     margin-right: 260px;
     font-size: 50px;
     margin-bottom: 10%;
     display: inline-block;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     color: rgba(34, 128, 179);
-    border-bottom: rgba(118, 192, 219) solid 3px;
     padding-bottom: 30px;
-    
-
 }
 
-.conocer {
-
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-    font-size: 35px;
-    color: rgb(255, 255, 255);
-    margin-left: 230px;
+.icono1{
+    margin-left: 25.8%;
     display: inline-block;
-    background-color: rgb(118, 192, 219);
-    padding: 15px;
-    width: 15%;
-    border-radius: 100px;
+    width: 5%;
 }
+
+.icono2{
+    margin-left: 15%;
+    display: inline-block;
+    width: 7%;
+}
+
+.icono3{
+    margin-left: 16.1%;
+    display: inline-block;
+    width: 5.5%;
+}
+
+.abajoicono1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    display: inline-block ;
+    margin-left: 22%;
+    font-size: 22px;
+    color: rgba(34, 128, 179);
+}
+
+.abajoicono2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    display: inline-block ;
+    font-size: 22px;
+    color: rgba(34, 128, 179);
+    margin-left: 13%;
+}
+
+.abajoicono3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    display: inline-block ;
+    font-size: 22px;
+    color: rgba(34, 128, 179);
+    margin-left: 13.7%;
+}
+
+.desicono1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+    margin-left: 19.5%;
+    width: 20%;
+    color: gray;
+}
+
+.desicono2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+    margin-left: 3%;
+    width: 15%;
+    color: gray;
+}
+.desicono3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+    margin-left: 5%;
+    width: 18%;
+    color: gray
+}
+
+
+
 
 h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin-left: 250px;
+    margin-left: 16.4%;
     margin-right: 260px;
     color: rgba(34, 128, 179);
     padding-top: 60px;
     border-top: rgba(118, 192, 219) solid 3px;
     margin-bottom: 60px;
-    margin-top: 240px;
-
+    margin-top: 150px;
 }
 
 .titulo1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin-left: 250px;
+    margin-left: 16.5%;
     font-weight: 500;
     font-size: inherit;
     display: inline-block;
-
-
 }
 
 .titulo2 {
@@ -140,7 +192,6 @@ h1 {
     font-weight: 500;
     font-size: inherit;
     display: inline-block;
-
 }
 
 .titulo3 {
@@ -149,8 +200,11 @@ h1 {
     font-weight: 500;
     font-size: inherit;
     display: inline-block;
-
 }
+
+
+
+
 
 .descri1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -161,7 +215,6 @@ h1 {
     font-size: inherit;
     display: inline-block;
     position: absolute;
-
 }
 
 .descri2 {
@@ -186,37 +239,76 @@ h1 {
     position: absolute;
 }
 
-
-
 .titulo4 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 250px;
     font-weight: 500;
-
     font-size: inherit;
     display: inline-block;
-
 }
 
 .titulo5 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 233px;
     font-weight: 500;
-
     font-size: inherit;
     display: inline-block;
-
 }
 
 .titulo6 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 195px;
     font-weight: 500;
-
     font-size: inherit;
     display: inline-block;
-
 }
+
+.titulo7 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 16.5%;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+}
+.titulo8 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 17.1%;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+}
+
+.titulo9 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 17.2%;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+}
+
+.titulo10 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 195px;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+}
+
+.titul11 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 195px;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+}
+.titulo12 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 195px;
+    font-weight: 500;
+    font-size: inherit;
+    display: inline-block;
+}
+
 
 .descri4 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -227,7 +319,6 @@ h1 {
     font-size: inherit;
     display: inline-block;
     position: absolute;
-
 }
 
 .descri5 {
@@ -239,7 +330,6 @@ h1 {
     font-size: inherit;
     display: inline-block;
     position: absolute;
-
 }
 
 .descri6 {
@@ -251,17 +341,51 @@ h1 {
     font-size: inherit;
     display: inline-block;
     position: absolute;
-
 }
+
+.descri7 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 16.5%;
+    font-weight: 500;
+    color: grey;
+    margin-top: -10px;
+    font-size: inherit;
+    display: inline-block;
+    position: absolute;
+    
+}
+
+.descri8 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 39.8%;
+    font-weight: 500;
+    color: grey;
+    margin-top: -10px;
+    font-size: inherit;
+    display: inline-block;
+    position: absolute;
+    
+}
+.descri9 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 63.1%;
+    font-weight: 500;
+    color: grey;
+    margin-top: -10px;
+    font-size: inherit;
+    display: inline-block;
+    position: absolute;
+   
+}
+
+
 
 .precio1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 250px;
     font-weight: 500;
-
     font-size: inherit;
     display: inline-block;
-
     margin-top: 25px;
 }
 
@@ -269,91 +393,69 @@ h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 302px;
     font-weight: 500;
-
     font-size: inherit;
     display: inline-block;
-
-
 }
 
 .precio3 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 292px;
     font-weight: 500;
-
     font-size: inherit;
     display: inline-block;
-
-
 }
 
 .producto_1 {
-    margin-left: 250px;
-
-
+    margin-left: 16.5%;
     display: inline-block;
     border-radius: 5px;
 }
 
 .producto_2 {
     position: relative;
-
-
     margin-left: 50px;
     border-radius: 5px;
 }
 
 .producto_3 {
     margin-left: 50px;
-
     border-radius: 5px;
     display: inline-block;
-
 }
 
 .producto_4 {
     position: relative;
     margin-left: 250px;
     border-radius: 5px;
-
     margin-top: 70px;
 }
 
 .producto_5 {
     margin-left: 50px;
-
     border-radius: 5px;
     display: inline-block;
-
 }
 
 .producto_6 {
     margin-left: 50px;
-
     border-radius: 5px;
     display: inline-block;
-
 }
 
 .promocion_1 {
     margin-left: 250px;
-
-
     display: inline-block;
     border-radius: 5px;
 }
 
 .promocion_2 {
     position: relative;
-
-
     margin-left: 50px;
     border-radius: 5px;
 }
 
 .promocion_3 {
     margin-left: 50px;
-
     border-radius: 5px;
     display: inline-block;
 
@@ -363,22 +465,127 @@ h1 {
     position: relative;
     margin-left: 250px;
     border-radius: 5px;
-
-    margin-top: 280px;
+    margin-top: 70px;
 }
 
 .promocion_5 {
     position: relative;
-
-
     margin-left: 50px;
     border-radius: 5px;
 }
 
 .promocion_6 {
     position: relative;
-
-
     margin-left: 50px;
     border-radius: 5px;
+}
+
+.camion{
+
+    width: 30%;
+    margin-left: 34%;
+    
+    margin-bottom: 20px;
+    margin-top: 150px;
+    border-top: rgb(118, 192, 219) solid 3px;
+    padding-top: 160px;
+
+}
+
+.haz {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-left: 35%;
+    font-weight: 500;
+  
+    background-color: rgb(118, 192, 219);
+    padding: 2%;
+    padding-left: 2.5%;
+    padding-right: 1%;
+    width: 27%;
+    border-radius: 100px;
+}
+
+.horario {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    width: 26%;
+    margin-left: 37%;
+    text-align: center;
+    color: gray;
+    margin-top: 5%;
+    margin-bottom: 20%;
+
+
+}
+
+.contenedor{
+
+    background-color: rgb(118, 192, 219);
+    width: 100%;
+    min-height: 300px;
+    margin-left: -10px;
+   
+}
+
+.cobertura{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: inherit;
+    margin-left: 16.5%;
+    width: 34%;
+    color: rgb(80, 80, 80);
+    padding-top: 20px;
+    border-top: rgba(34, 128, 179) solid 2px;
+    padding-right: -170px;
+}
+
+.fono{
+    font-weight: 500;
+    font-size: 21px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(80, 80, 80);
+    margin-left: 3%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.ig{
+    font-weight: 500;
+    font-size: 21px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(80, 80, 80);
+    margin-left: 3%;
+    text-align: center;
+}
+
+.correo{
+    font-weight: 500px;
+    font-size: 21px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(80, 80, 80);
+    margin-left: 3%;
+    text-align: center;
+}
+
+.registrado{
+    font-weight: 500;
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(80, 80, 80);
+    display: inline-block;
+    margin-left: 16.5%;
+    margin-top: 5%;
+}
+
+.terminos{
+    font-weight: 500;
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(80, 80, 80);
+    display: inline-block;
+    margin-left: 50%;
+    
 }
