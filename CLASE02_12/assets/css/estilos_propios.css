@@ -1,19 +1,64 @@
 .columna__01 {
-    background-color: yellow ;
+    background-color: none ;
 }
 
 .columna__02 {
-    background-color: gray ;
+    background-color:none ;
     
 }
 
 .columna__03 {
-    background-color: red
+    background-color:none;
 }
 .columna__04{
-  background-color: blueviolet;
+  background-color: none;
 }
 .padding__vertical {
 padding: 20px 0px ;
-background-color: rgb(196, 194, 194);
+background-color: none;
 }
+
+.columna__02 img {
+    width: 100%;
+}
+
+.columna__02 p{
+    font-size: 12px;
+}
+
+.columna__01 h2{
+    font-size: 12px;
+}
+
+.columna__02 h4{
+    font-size: 15px;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.ig{
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.fb{
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.columna__04 img {
+    width: 100%;
+}
+
+.columna__04 p{
+    font-size: 12px;
+    margin-top: 5%;
+    border-bottom: rgb(0, 0, 0) solid 1px;
+    padding-bottom: 15%;
+    margin-bottom: 15%;
+    
+}
+
+
+
+
