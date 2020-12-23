@@ -20,6 +20,7 @@ background-color: none;
 
 .columna__02 img {
     width: 100%;
+    
 }
 
 .columna__02 p{
@@ -28,6 +29,7 @@ background-color: none;
 
 .columna__01 h2{
     font-size: 12px;
+   
 }
 
 .columna__02 h4{
@@ -58,6 +60,17 @@ background-color: none;
     margin-bottom: 15%;
     
 }
+
+.linea{
+    border-bottom: rgb(0, 0, 0) solid 1px;
+    padding-bottom: 6%;
+    margin-bottom: 6%;
+   
+}
+
+
+
+
 
 
 
