@@ -67,7 +67,27 @@ background-color: none;
     margin-bottom: 2%;
    
 }
+.franja{
+    background-color: rgb(228, 226, 226);
+    width: 100%;
+    padding: 0.8%;
+    margin-bottom: 5%;
+}
 
+.columna__01 h3{
+    font-size: 20px;
+    color: rgb(41, 41, 41);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3%;
+    font-family: bold;
+    display: inline-block;
+
+   
+}
+.menu{
+    margin-left: 80%;
+    display: inline-block;
+}
 
 
 
