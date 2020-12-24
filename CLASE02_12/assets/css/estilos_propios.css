@@ -68,7 +68,7 @@ background-color: none;
    
 }
 .franja{
-    background-color: none;
+    background-color: rgba(196, 196, 196, 0.555);
     width: 100%;
     padding: 0.8%;
     margin-bottom: 5%;
@@ -89,20 +89,7 @@ background-color: none;
     display: block;
 }
 
-.yt{
-    margin-left: 98%;
-    margin-top: -5.5%;
 
-    display: inline-block;
-}
-
-.tw{
-    margin-left: 94%;
-    margin-top: -5.5%;
-
-    display: inline-block;
-
-}
 
 
 
